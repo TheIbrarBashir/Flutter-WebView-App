@@ -1,8 +1,8 @@
-# praso
-Praso.com.br Web View App
+# Flutter WebView App
+
 
 ## Getting Started
-Application label: Praso
-Application Package: br.com.praso.app.praso
+Application label: Flutter Webview App
 
-# Praso_WebView_App
+
+
